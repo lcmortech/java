@@ -1,2 +1,2 @@
 # wordpress
-Projects done in php and wordpress
+Projects done in java
